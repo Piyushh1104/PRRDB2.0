@@ -12,6 +12,7 @@ Kaur, D., Patiyal, S., Sharma, N., Usmani, S. S., & Raghava, G. P. S. (2019).
 **PRRDB 2.0: A comprehensive database of pattern-recognition receptors and their ligands.**  
 Database, 2019, baz076.  
 https://doi.org/10.1093/database/baz076
+https://doi.org/10.5281/zenodo.20063489
 
 ---
 
